@@ -1,0 +1,4 @@
+Racoon = True
+
+if Racoon is True:
+	print('Hello, world')
